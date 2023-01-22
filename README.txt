@@ -1,4 +1,4 @@
-				   SUPER TANKS
+				  		SUPER TANKS
          				            -x-
 
 Jogo produzido para a disciplina Algoritmos e Estruturas de Dados do curso de Engenharia da Computação da Universidade Federal do Rio Grande - FURG.
