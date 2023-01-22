@@ -3,7 +3,7 @@
 
 Jogo produzido para a disciplina Algoritmos e Estruturas de Dados do curso de Engenharia da Computação da Universidade Federal do Rio Grande - FURG.
 
-Feito por João Vitor Hartung Toppa (matrícula 155456) e Pedro Roberto Fernandes Noronha (matrícula 155463).
+Feito por João Vitor Hartung Toppa e Pedro Roberto Fernandes Noronha.
 
 Todos os sprites foram produzidos pelo grupo.
 
@@ -30,10 +30,6 @@ Z - Tiro
 Jogador 2:
 Setinhas - Movimentação
 N - Tiro
-
-Vídeo explicativo do código/Gameplay:
-
-https://www.youtube.com/watch?v=gEl38e06Dxs
 
 Referências bibliográficas:
 SWIFT, Nicholas. Easy A* (star) Pathfinding. Medium, 2022. Disponível em <https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2>. Acesso em: 29 de out. de 2022.
